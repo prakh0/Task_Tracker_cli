@@ -40,7 +40,7 @@ python app.py update 2 "Updated Task Description"
 To mark a task as "in progress" or "done" or "todo", use the task ID,by defaul task as set on todo
 
 ```bash
-python app.py in progress "2"
+python app.py in_progress "2"
 ```
 
 ### Delete Task
