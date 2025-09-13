@@ -1,7 +1,7 @@
 import json
 import sys
-from task.taskmanager import TaskManager
-from task.entity import TaskStatus
+from taskmanager import TaskManager
+from entity import TaskStatus
 
 
 def valid_commands():

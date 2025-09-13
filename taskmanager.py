@@ -1,6 +1,6 @@
 from datetime import datetime
-from task.filemanager import FileManager
-from task.entity import Task, TaskStatus
+from filemanager import FileManager
+from entity import Task, TaskStatus
 
 
 class TaskManager:

@@ -1,6 +1,6 @@
 import json
 import os
-from task.entity import Task
+from entity import Task
 
 TASK_FILE = "task.json"
 
